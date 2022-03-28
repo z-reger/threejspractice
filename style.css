@@ -1,0 +1,10 @@
+body{
+    min-height: calc(3000px + 100vh);
+}
+
+
+section.photo{
+    position:fixed;
+    top:0;
+    left:0;
+}
